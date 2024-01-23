@@ -9,6 +9,7 @@ public class GoogleBillboard {
 
 	//Finish this function
 	public boolean isPrime(){
+		for(int i = 0; i < Math.sqrt(
 	}
 
 }
