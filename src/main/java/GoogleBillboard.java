@@ -5,7 +5,7 @@ public class GoogleBillboard {
 	public static void main(final String[] args) {
                  for(int i = 1; i < e.length(); i++){
 		   int balls = e.parse(i+10); 
-                   if(isPrime(balls) == true) System.out.println(balls
+                   if(isPrime(balls) == true) System.out.println(balls);
  		 }
 		
 		System.out.println("Not the right string, tests will fail!");
